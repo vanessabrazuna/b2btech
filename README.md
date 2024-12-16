@@ -1,4 +1,4 @@
-# 🚀 B2B Tech - Landing Page
+# 🚀 B2B Tech
 
 ![B2B Tech](./.github/b2btech.png)
 
