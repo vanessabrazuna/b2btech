@@ -41,7 +41,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/B2B-TECH-MAKER/siteb2btech.git
+$ git clone https://github.com/vanessabrazuna/b2btech
 
 # Acesse o diretório do projeto
 $ cd siteb2btech
